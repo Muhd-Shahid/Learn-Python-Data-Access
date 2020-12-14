@@ -1,7 +1,4 @@
-# Learn-Python-Data-Access
-
 ### Pandas DataFrame to PostgreSQL using Python
-
 ### Objective
 #### Our main objective is to learn step by step working code for Database creation, Table creation, Insert bulk data, Load data from PostgreSQL server.
 
