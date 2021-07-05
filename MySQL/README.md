@@ -1,6 +1,6 @@
 # How to import a raw file into a MySQL database using python script?
 ## Define Problem Statement
-### Our objective is to import a csv file into a MySQl database using python script.
+### Our objective is to import a csv file into a MySQL database using python script.
 
 Access the folder for the complete project with this link
 
